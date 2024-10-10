@@ -30,6 +30,10 @@ MINT_ADDRESS=your_token_mint_address
 
 Para converter a chave privada para base64, utilize a função `convertToBase64.js` disponível na pasta `utils`.
 
+```
+node .\utils\convertToBase64.js
+```
+
 ## Como Usar
 
 1. Clone este repositório.
